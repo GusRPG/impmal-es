@@ -2,7 +2,7 @@
   "id": "impmal-es",
   "title": "Imperium Maledictum - Traducción al Español",
   "description": "Módulo que agrega soporte para español en el sistema base Imperium Maledictum.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "compatibility": {
     "minimum": "13",
     "verified": "13",
